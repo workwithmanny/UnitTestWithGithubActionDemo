@@ -1,4 +1,4 @@
-name: Test & Publish Coverage (xUnit + ReportGenerator)
+name: Test & Publish Coverage (xUnit + ReportGenerator)x
 
 on:
   push:
